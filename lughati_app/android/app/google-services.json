@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392005256645",
+    "project_id": "lughati-d1fbc",
+    "storage_bucket": "lughati-d1fbc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392005256645:android:9be99e4f8b65615eb7f7ac",
+        "android_client_info": {
+          "package_name": "com.example.lughati_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbnWMt_oFosxLm9zsEqn2zSVfYZWx7xHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
